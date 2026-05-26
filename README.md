@@ -603,9 +603,13 @@ A: 能, 这个仓库 [SKILL.md](SKILL.md) 就是 Anthropic Skill 格式, Claude 
 
 ## 反馈 / 报障
 
-- 仓库 Issue: https://github.com/LmaoAgent/tudun-skill/issues
+- **客服微信** (有问题直接问最快):
+
+  <img src="assets/wechat-qr.png" alt="客服微信二维码" width="220">
+
+- 仓库 Issue (公开问题, 别人也能看): https://github.com/LmaoAgent/tudun-skill/issues
 - 主项目 Issue: https://github.com/LmaoAgent/tudun-workshop/issues
-- 官网联系方式: https://image.bjaydmy.com (账户设置页有客服微信)
+- 官网: https://image.bjaydmy.com
 
 ---
 
